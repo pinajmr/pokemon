@@ -1,0 +1,18 @@
+{
+    "name": "CATERPIE",
+    "description": "CATERPIE that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.!",
+    "image": "https://ipfs.io/ipfs/QmdzjgkMFFxAj6npzqdsTGpKz67sCPfXqJHZEFwyzrcmgU?filename=c",
+    "attributes": [
+        {
+            "abilities": "Static",
+            "description": ""
+        },
+        {
+            "Type":"Grass ,Poison"
+        },
+
+        {
+            "Weaknesses": "Fire, Flying, Ice, Psychic"
+        }
+    ]
+}

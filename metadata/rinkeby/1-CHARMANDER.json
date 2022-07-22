@@ -1,0 +1,18 @@
+{
+    "name": "CHARMANDER",
+    "description": "CHARMANDER that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.!",
+    "image": "https://ipfs.io/ipfs/QmPdRCb7Q7nTYeKCxdPZ9SCaxQH5FkhabRRmvd62XVfoRY?filename=c",
+    "attributes": [
+        {
+            "abilities": "Static",
+            "description": ""
+        },
+        {
+            "Type":"Grass ,Poison"
+        },
+
+        {
+            "Weaknesses": "Fire, Flying, Ice, Psychic"
+        }
+    ]
+}
